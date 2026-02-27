@@ -1,1 +1,1 @@
-# d4c-sandbox-catalogue
+# d4c-service-catalogue
