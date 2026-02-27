@@ -1,1 +1,1 @@
-# d4c-service-catalogue
+# d4c-service-fair-data-catalogue
